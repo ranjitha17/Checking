@@ -1,0 +1,9 @@
+import java.io.*;
+class Che
+{
+public static void main(String ar[])
+
+{
+System.out.println("hello");
+}
+}
